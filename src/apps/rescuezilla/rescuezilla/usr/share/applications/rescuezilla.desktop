@@ -3,9 +3,10 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
+Category=GNOME;System;Filesystem
 Terminal=false
 Name[en_US]=Rescuezilla
-Exec=rescuezilla
+Exec=/usr/share/rescuezilla
 Comment[en_US]=System backup and restore utility
 Name=Rescuezilla
 Comment=System backup and restore utility

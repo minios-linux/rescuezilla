@@ -3,7 +3,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Category=GNOME;System;Filesystem
+Categories=GNOME;System;Filesystem;
 Terminal=false
 Name[en_US]=Rescuezilla
 Exec=/usr/share/rescuezilla

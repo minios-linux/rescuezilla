@@ -1,12 +1,12 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
 Version=1.0
 Type=Application
+Categories=GNOME;System;Filesystem;
 Terminal=false
 Name[en_US]=Rescuezilla
-Exec=rescuezilla
+Exec=/usr/sbin/rescuezilla
 Comment[en_US]=System backup and restore utility
+Comment[ru_RU]=Утилита резервного копирования и восстановления системы
 Name=Rescuezilla
 Comment=System backup and restore utility
 Icon=rescuezilla

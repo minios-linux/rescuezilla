@@ -2509,7 +2509,7 @@ You may only use letters, numbers, and dashes in your backup name.</property>
                                         <child>
                                           <object class="GtkLinkButton" id="backup_step8_patreon_linkbutton">
                                             <property name="label" translatable="yes">Consider contributing $1/month on the crowdfunding website Patreon so Rescuezilla can continue to be developed.</property>
-                                            <property name="visible">True</property>
+                                            <property name="visible">False</property>
                                             <property name="can-focus">False</property>
                                             <property name="receives-default">True</property>
                                             <property name="halign">center</property>
@@ -4453,7 +4453,7 @@ You may only use letters, numbers, and dashes in your backup name.</property>
                                             <child>
                                               <object class="GtkLinkButton" id="restore_step6_patreon_linkbutton">
                                                 <property name="label" translatable="yes">Consider contributing $1/month on the crowdfunding website Patreon so Rescuezilla can continue to be developed.</property>
-                                                <property name="visible">True</property>
+                                                <property name="visible">False</property>
                                                 <property name="can-focus">True</property>
                                                 <property name="receives-default">True</property>
                                                 <property name="halign">center</property>
@@ -5739,7 +5739,7 @@ You may only use letters, numbers, and dashes in your backup name.</property>
                                             <child>
                                               <object class="GtkLinkButton" id="verify_step3_patreon_linkbutton">
                                                 <property name="label" translatable="yes">Consider contributing $1/month on the crowdfunding website Patreon so Rescuezilla can continue to be developed.</property>
-                                                <property name="visible">True</property>
+                                                <property name="visible">False</property>
                                                 <property name="can-focus">True</property>
                                                 <property name="receives-default">True</property>
                                                 <property name="halign">center</property>
@@ -7142,7 +7142,7 @@ To use the "imaging" wizards, click &lt;b&gt;Back&lt;/b&gt; and select &lt;b&gt;
                                         <child>
                                           <object class="GtkLinkButton" id="clone_step6_patreon_linkbutton">
                                             <property name="label" translatable="yes">Consider contributing $1/month on the crowdfunding website Patreon so Rescuezilla can continue to be developed.</property>
-                                            <property name="visible">True</property>
+                                            <property name="visible">False</property>
                                             <property name="can-focus">True</property>
                                             <property name="receives-default">True</property>
                                             <property name="halign">center</property>
